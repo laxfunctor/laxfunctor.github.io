@@ -3,7 +3,7 @@
 コンピュータサイエンス系VTuberです。
 
 - [YouTube チャンネル](https://www.youtube.com/channel/UC8sze9KG6vl6rjq88nnEOmQ)
-- [Twitter](https://twitter/laxfunctor)
+- [Twitter](https://twitter.com/laxfunctor)
 - [GitHub](https://github.com/laxfunctor)
 
 ## 最近の動画
